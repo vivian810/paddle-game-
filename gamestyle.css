@@ -1,0 +1,11 @@
+# paddle-game-
+canvas {
+  background: #F08080;
+  display:block;
+  margin: 0 auto;
+}
+
+h1{
+  color: chocolate;
+  text-align: center;
+}
